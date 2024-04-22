@@ -1,16 +1,5 @@
 # Weekly Report 2024-04
 
-## 2024.04.15
-
-### 【本周工作总结】
-
-1. AIDA 会议，收获最大的报告：刘超老师。
-2. FCN4Flare 论文 performance 章节撰写。
-
-### 【下周工作计划】
-
-1. 论文修改。
-
 ## 2024.04.15 - 2024.04.21
 
 ### Paper revision
@@ -25,6 +14,9 @@
 3. `Data and Training` subsection
     - Figure of loss & dice during training & valuation.
     - Specify the total training time, device, config, etc.
+4. `Application` section
+    - Deleted comparasion of Yang's.
+    - Deleted figure of flare events samples.
 
 ### Code Recording
 
@@ -166,3 +158,14 @@ plt.show()
 
 结果展示：
 ![confusion matrix](./images/24-04/fcn4flare_confusion_matrix.png)
+
+## 2024.04.15
+
+### 【本周工作总结】
+
+1. AIDA 会议，收获最大的报告：刘超老师。
+2. FCN4Flare 论文 performance 章节撰写。
+
+### 【下周工作计划】
+
+1. 论文修改。

@@ -2,6 +2,12 @@
 
 ## 04.22 - 04.28
 
+### Paper Revising
+
+1. add machine-readable tables for flare events and stars
+2. find chellenging samples for flare detection with machine learning
+3. revise abstract & conclusion, and add code available url
+
 ### Code Recording
 
 #### Plotting Flare Samples with Zoomed Sections
@@ -116,7 +122,7 @@ result:
 
 ![light curves zoom in](./images/24-04/26-flare_zoom_in.png)
 
-**Utils to convert a DataFrame into a [machine-readable table](https://journals.aas.org/mrt-standards/) used by AAS**
+#### Utils to convert a DataFrame into a [machine-readable table](https://journals.aas.org/mrt-standards/) used by AAS
 
 ```python
 def dataframe_to_mrt(df, filename, meta_data, column_specs, notes):
